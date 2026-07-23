@@ -9,3 +9,8 @@ data/raw/creditcard.csv
 *.pkl
 *.joblib
 *.h5
+
+# Large datasets
+data/processed/
+data/raw/creditcard.csv
+data/processed/creditcard_no_duplicates.csv
