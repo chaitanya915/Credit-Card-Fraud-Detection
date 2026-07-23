@@ -1,0 +1,17 @@
+Dataset Name:
+Credit Card Fraud Detection
+
+Total Transactions:
+284,807
+
+Fraud Transactions:
+492
+
+Genuine Transactions:
+284,315
+
+Number of Features:
+31
+
+Target Variable:
+Class

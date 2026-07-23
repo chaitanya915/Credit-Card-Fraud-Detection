@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+data/raw/creditcard.csv
+
+*.pyc
+*.pkl
+*.joblib
+*.h5
