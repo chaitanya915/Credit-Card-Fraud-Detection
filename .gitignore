@@ -17,3 +17,7 @@ data/processed/creditcard_no_duplicates.csv
 data/processed/creditcard_scaled.csv
 data/processed/X.csv
 data/processed/y.csv
+data/processed/X_train.csv
+data/processed/X_test.csv
+data/processed/y_train.csv
+data/processed/y_test.csv
