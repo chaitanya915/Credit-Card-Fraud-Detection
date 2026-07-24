@@ -14,3 +14,4 @@ data/raw/creditcard.csv
 data/processed/
 data/raw/creditcard.csv
 data/processed/creditcard_no_duplicates.csv
+data/processed/creditcard_scaled.csv
