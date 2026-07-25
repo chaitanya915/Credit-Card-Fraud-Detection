@@ -1,0 +1,5 @@
+Dataset,Class,Count
+Training,Genuine,226602
+Training,Fraud,226602
+Testing,Genuine,56651
+Testing,Fraud,95

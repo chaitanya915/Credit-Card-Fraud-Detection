@@ -1,0 +1,5 @@
+Dataset,Rows,Columns
+X_train_smote,453204,30
+y_train_smote,453204,1
+X_test,56746,30
+y_test,56746,1
