@@ -25,3 +25,9 @@ data/processed/scaler.pkl
 data/processed/X_train_smote.csv
 data/processed/y_train_smote.csv
 
+
+
+
+
+
+models/logistic_regression.pkl
