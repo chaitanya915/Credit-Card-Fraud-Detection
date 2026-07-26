@@ -31,3 +31,27 @@ data/processed/y_train_smote.csv
 
 
 models/logistic_regression.pkl
+
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CatBoost
+catboost_info/
+
+# Model files
+models/*.pkl
+models/*.joblib
+models/*.cbm
+
+
+models\logistic_regression_results.pkl
