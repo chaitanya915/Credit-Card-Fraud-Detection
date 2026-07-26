@@ -54,4 +54,4 @@ models/*.joblib
 models/*.cbm
 
 
-models\logistic_regression_results.pkl
+models/logistic_regression_results.pkl
